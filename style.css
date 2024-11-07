@@ -1,9 +1,12 @@
 .cabecalho{
     background-color: aliceblue;
+    text-align: center;
 }
 .titulo{
     color: black;
+    text-align: center;
 }
 .subtitulo{
     color: black;
+    text-align: center;
 }
