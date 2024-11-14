@@ -14,8 +14,8 @@
     text-align: center;
  }
  .parte-principal{
-    text-align: left;
-    font-size: 100px;
+    text-align: right;
+    font-size: 300px;
  }
  body{
     background-image: url(./img/pngprincipal.png);
