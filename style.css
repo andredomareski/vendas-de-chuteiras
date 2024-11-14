@@ -16,6 +16,7 @@
  .parte-principal{
     text-align: center;
     font-size: 300px;
+    width: 50%;
  }
  body{
     background-image: url(./img/pngprincipal.png);
